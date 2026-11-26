@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- ROLI Ltd. (0x2AF4), LUMI Keys BLOCK (0x0E00); values are decimal. -->
+    <usb-device vendor-id="10996" product-id="3584" />
+</resources>
